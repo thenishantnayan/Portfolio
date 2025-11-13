@@ -1,6 +1,6 @@
 
 
-# 🌐 Nishant Nayan – Portfolio
+ 🌐 Nishant Nayan – Portfolio
 
 A personal portfolio website showcasing my skills, projects, and achievements in web development and programming. Built with **React**, **Tailwind CSS**, and **Vite** for a fast and responsive experience.
 
